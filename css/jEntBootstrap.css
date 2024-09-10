@@ -11,7 +11,7 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
- 	background-image: url(assets/images/bg.jpg);
+ 	background-image: url("../../assets/images/bg.png");
 	background-position:center center;
 	background-repeat: no-repeat;
 	/*webkit-background-size: cover;
@@ -32,7 +32,7 @@ body {
 	width: 100%;
 }
 #nav{
-	background-image:url(assets/images/navBg.png);
+	background-image: url("../../assets/images/navBg.png");
 	background-repeat: repeat-x;
 	margin: 0px auto;
 	width: 100%;
@@ -309,13 +309,13 @@ th {
 	clear:both;
 }
 .sectionL{
-	background-image: url(assets/images/servicesBg.png);
+	background-image: url(../../assets/images/servicesBg.png);
 	background-repeat: no-repeat;
 	float: left;
 	padding: 20px 5px 30px 5px;
 	/*margin-left: auto;
 	margin-bottom: 50px;*/
-	width: 275px;
+	width: 45%;
 	height: auto;
 	display: block;
 	/*height: 40%;*/
@@ -337,12 +337,12 @@ th {
 	padding-left: 8px;	
 }
 .sectionR{
-	background-image: url(assets/images/plansBg.png);
+	background-image: url(../../assets/images/plansBg.png);
 	background-repeat: no-repeat;
 	float: right;
 	padding: 2px 30px 5px 50px;
 	margin: auto;
-	width: 562px;
+	width: 55%;
 	height: auto;
 	display: block;
 	/*height: 60%;*/
@@ -2827,7 +2827,7 @@ table{
 	padding-left: 3px;	
 }
 .sectionR{
-	background-image: url(http://jewebhosting.com/images/plansBg350.png); 
+	background-image: url(../../assets/images/plansBg350.png); 
 	float: right;
 	padding: 3% 1% 5% 1%;
 	/*padding: 5px 5px 5px 1px;*/
