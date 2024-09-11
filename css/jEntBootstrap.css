@@ -52,13 +52,13 @@ body {
 #navL{
 	margin: auto;
 	float: left;
-	width: 30%;
+	width: 60%;
 	/*padding-left: 5px;*/
 }
 #navR{
 	margin: auto;
 	float: right;
-	width: 70%;
+	width: 40%;
 	padding: 20px 0px 0px 0px;
 }
 #nav img{
@@ -2472,14 +2472,14 @@ table th[class*="col-"] {
 }
 #navL{
 	float: left;
-	width: 100%;
+	width: 60%;
 	/*padding-left: 500px;*/
 }
 #navR{
 	margin: 0px;
 	/*padding: 0px 20px 0px 100px;*/
 	float: right;
-	width: 30%;
+	width: 40%;
 }
 /*.nav {
   /*padding-left: 600px;
@@ -2585,7 +2585,7 @@ table th[class*="col-"] {
 }
 #navL{
 	float: left;
-	width: 90%;
+	width: 60%;
 	padding-left: 90px;
 }
 /*#navR{
@@ -2692,7 +2692,7 @@ table th[class*="col-"] {
 #navL{
 	margin: auto;
 	float: left;
-	width: 40%;
+	width: 60%;
 	/*padding-left: 10px;*/
 }
 #navR{
@@ -2790,7 +2790,7 @@ table{
 #navL{
 	margin: auto;
 	float: left;
-	width: 40%;
+	width: 60%;
 	/*padding-left: 10px;*/
 }
 #navR{
@@ -2879,7 +2879,7 @@ table{
 #navL{
 	margin-left: -100px;
 	float: left;
-	width: 30%;
+	width: 60%;
 	/*padding-left: 10px;*/
 }
 #navR{
