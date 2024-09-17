@@ -50,25 +50,25 @@ body {
 	/*padding-left: 600px;*/
 }
 #navL{
-	margin: auto;
-	float: left;
-	width: 30%;
-	/*padding-left: 5px;*/
+	margin-right: 50%;
+	/*float: left;*/
+	width: 35%;
+	/*padding-right: 5px;*/
 }
 #navR{
 	margin: auto;
-	float: right;
-	width: 70%;
+	/*float: right;*/
+	width: 40%;
 	padding: 20px 0px 0px 0px;
 }
-#nav img{
-	width: 377px;
+/*#nav img{
+	/*width: 377px;
 	/*height: 101px;*/
-	text-align: center;
+	/*text-align: center;
 	/*max-width: 100%;*/
-	height: auto;
-	/*max-width: 100%;*/
-}
+	/*height: auto;
+	/*max-width: 100%;
+}*/
 .content{
 	margin: auto;
 	width: 100%;
@@ -315,8 +315,8 @@ th {
 	padding: 20px 5px 30px 5px;
 	/*margin-left: auto;
 	margin-bottom: 50px;*/
-	width: 45%;
-	height: auto;
+	width: 50%;
+	height: 100%;
 	display: block;
 	/*height: 40%;*/
 }
@@ -342,7 +342,7 @@ th {
 	float: right;
 	padding: 2px 30px 5px 50px;
 	margin: auto;
-	width: 55%;
+	width: 50%;
 	height: auto;
 	display: block;
 	/*height: 60%;*/
@@ -2471,15 +2471,15 @@ table th[class*="col-"] {
 	font-weight:650;
 }
 #navL{
-	float: left;
-	width: 100%;
+	margin-right: 50%;
+	width: 55%;
 	/*padding-left: 500px;*/
 }
 #navR{
 	margin: 0px;
 	/*padding: 0px 20px 0px 100px;*/
 	float: right;
-	width: 30%;
+	width: 40%;
 }
 /*.nav {
   /*padding-left: 600px;
@@ -2490,7 +2490,7 @@ table th[class*="col-"] {
   width: 100%;
 }*/
 .sectionL{
-	width: 100%;
+	width: 50%;
 	display: block;	
 }
 .pLeftH{
@@ -2510,7 +2510,7 @@ table th[class*="col-"] {
 	padding-left: 3px;	
 }
 .sectionR{
-	background-image: url(http://jewebhosting.com/images/plansBg300.png);
+	background-image: url(../images/plansBg300.png);
 	background-repeat: no-repeat;
 	/*webkit-background-size: cover;
 	moz-background-size: cover;
@@ -2524,31 +2524,31 @@ table th[class*="col-"] {
 	display: block;
 }
 .sectionR img{
-	max-width: 80%;
-	padding: 10%;
+	max-width: 100%;
+	padding: 0%;
 	display: block;
 }
 .pRightH{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 10px;
-	padding: 2%;
+	font-size: 80%;
+	padding: 0%;
 }
 .pRight{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	padding: 5%;
+	font-size: 80%;
+	padding: 1%;
 }
 .pRightBull{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 10px;
-	margin-top: -17px;
+	font-size: 50%;
+	margin-top: 0%;
 	padding: 5%;
 }
 .pRightBullS{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 8px;
-	margin-top: -17px;
-	padding: 5%;
+	font-size: 50%;
+	margin-top: 0%;
+	padding: 0%;
 }
 .services{
 	margin: auto;
@@ -2584,8 +2584,8 @@ table th[class*="col-"] {
 	font-weight:650;
 }
 #navL{
-	float: left;
-	width: 90%;
+	margin-right: 50%;
+	width: 35%;
 	padding-left: 90px;
 }
 /*#navR{
@@ -2690,15 +2690,14 @@ table th[class*="col-"] {
 	font-weight:650;
 }
 #navL{
-	margin: auto;
-	float: left;
+	margin-right: 50%;
 	width: 40%;
 	/*padding-left: 10px;*/
 }
 #navR{
 	margin: auto;
 	float: right;
-	width: 70%;
+	width: 40%;
 	padding: 0px 0px 20px 0px;
 }
 #nav img{
@@ -2742,7 +2741,7 @@ table th[class*="col-"] {
 	/*padding: 1%;
 	/*padding: 5px 5px 5px 1px;*/
 	/*margin: 1%;*/
-	max-width: 70%;
+	max-width: 100%;
 	/*overflow: auto;*/
 	/*display: block;*/
 }
@@ -2788,9 +2787,8 @@ table{
 	margin-left: 15px;
 }
 #navL{
-	margin: auto;
-	float: left;
-	width: 40%;
+	margin-right: 50%;
+	width: 55%;
 	/*padding-left: 10px;*/
 }
 #navR{
@@ -2804,10 +2802,12 @@ table{
 	margin-left: -70px;
 }
 .sectionL{
-	float: left;
+	/*float: left;*/
 	/*padding: 1%;*/
 	margin: 1%;
+  padding-bottom: 10%;
 	width: 40%;
+  height: 100%;
 	display: block;	
 }
 .pLeftH{
@@ -2829,15 +2829,14 @@ table{
 .sectionR{
 	background-image: url(../../assets/images/plansBg350.png); 
 	float: right;
-	padding: 3% 1% 5% 1%;
+	padding: 2% 0% 10% 1%;
 	/*padding: 5px 5px 5px 1px;*/
-	/*margin: 1%;*/
-	max-width: 50%;
+	max-width: 60%;
 	/*overflow: auto;*/
-	/*display: block;*/
+	display: block;
 }
 table{
-	max-width: 80%;
+	max-width: 100%;
 }
 .sectionR img{
 	max-width: 60%;
@@ -2845,22 +2844,23 @@ table{
 }
 .pRightH{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 12px;
+	font-size: 90%;
 	
 }
 .pRight{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 10px;
+	font-size: 90%;
+  margin-top: 20%;
 }
 .pRightBull{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 8px;
-	margin-top: -17px;
+	font-size: 80%;
+	/*margin-top: 1%;*/
 }
 .pRightBullS{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 8px;
-	margin-top: -17px;
+	font-size: 80%;
+	/*margin-top: 1%;*/
 }
 .contact{
 	max-width: 100%
@@ -2877,9 +2877,8 @@ table{
 	font-weight:650;
 }
 #navL{
-	margin-left: -100px;
-	float: left;
-	width: 30%;
+	margin-right: 50%;
+	width: 80%;
 	/*padding-left: 10px;*/
 }
 #navR{
@@ -2921,15 +2920,13 @@ table{
 	padding-left: 3px;	
 }
 .sectionR{
-	background-image: url(http://jewebhosting.com/images/plansBg766.png);
+	background-image: url("../images/plansBg766.png");
 	background-repeat: no-repeat;
 	/*webkit-background-size: cover;
 	moz-background-size: cover;
 	o-background-size: cover;
 	background-size: cover;*/
 	float: left;
-	padding: 3%;
-	/*padding: 5px 100px 5px 2px;*/
 	margin: 1%;
 	max-width: 100%;
 	max-height: 100%;
@@ -2943,25 +2940,22 @@ table{
 }
 .pRightH{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 16px;
+	font-size: 90%;
 	padding: 2%;
 }
 .pRight{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	padding: 5%;
+	font-size: 90%;
+	margin-top: 20%;
 }
 .pRightBull{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 10px;
-	margin-top: -17px;
-	padding: 5%;
+	font-size: 80%;
 }
 .pRightBullS{
 	font: Arial, Helvetica, sans-serif;
-	font-size: 8px;
-	margin-top: -17px;
-	padding: 5%;
+	font-size: 80%;
+	
 }
 .contact{
 	max-width: 100%
